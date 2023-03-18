@@ -1,7 +1,6 @@
 # Hello, welcome to my world! 👋
 
-### 😄 Pronouns
-he/Him
+### 😄 Pronouns - He/Him
 
 ### ⚡ One line that describes me best? 
 “To improve technological skills by accepting challenges and difficulties, ensuring the growth of the organization whilst enhancing my knowledge and ability”.
