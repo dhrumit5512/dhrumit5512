@@ -6,7 +6,7 @@ he/Him
 ### ⚡ One line that describes me best? 
 “To improve technological skills by accepting challenges and difficulties, ensuring the growth of the organization whilst enhancing my knowledge and ability”.
 
-### 🌱What i'm doing? - #### ⚡ DESIGNER / DEVELOPER
+### 🌱What i'm doing? - ⚡ DESIGNER / DEVELOPER
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
