@@ -1,7 +1,5 @@
 # Hello, welcome to my world! 👋
 
-I am _Dhrumit_barot_. I believe that, Using a relevant skills section allows you to demonstrate how past achievements and work have helped you hone specific skills.
-
 ### 😄 Pronouns
 he/Him
 
